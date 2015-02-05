@@ -1,0 +1,22 @@
+{
+  "name": "sharp",
+  "version": "0.1.0",
+  "description": "a sharp node static server based on koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:4simple/sharp.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "4simple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4simple/sharp/issues"
+  },
+  "homepage": "https://github.com/4simple/sharp"
+}
