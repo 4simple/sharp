@@ -12,15 +12,18 @@ npm install -g sharpserver
 
 1. cd directory
 
-```shell
-cd ~/myfiles
-```
+  ```shell
+  cd ~/myfiles
+  ```
 
 2. start server
-```shell
-sharp -p 80 -r static
-```
+
+  ```shell
+  sharp -p 80 -r static
+  ```
 
 3. visit
 
-visit 'http://localhost/static'
+  ```shell
+  curl 'http://localhost/static'
+  ```
